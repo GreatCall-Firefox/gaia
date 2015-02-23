@@ -4,6 +4,7 @@
 *.swp
 .svn
 *~
+.idea/*
 manifest.appcache
 
 /apps/calendar/js/presets.js
